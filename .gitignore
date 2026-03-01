@@ -1,0 +1,15 @@
+dist/
+build/
+__pycache__/
+*.py[cod]
+*.pyo
+*.spec
+*.exe
+block.json
+.venv/
+venv/
+.idea/
+.vscode/
+tasks.json
+.DS_Store
+Thumbs.db
