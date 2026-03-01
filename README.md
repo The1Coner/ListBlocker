@@ -9,3 +9,5 @@ Install the .exe, and run it.
 - Minimizes processes
 - Standalone executable
 # Screenshots
+![Blocker](screenshot_listblocker_main.png)
+![Config](screenshot_listblocker_config.png)
